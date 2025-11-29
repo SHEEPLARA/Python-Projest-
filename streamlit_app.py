@@ -2,7 +2,7 @@
 import streamlit as st
 import predictor
 
-st.title("Champions League Predictor (xG-based)")
+st.title("Jackhiggi2803 is the nerd not me (xG-based)")
 
 st.write(
     "Predict match outcomes using Monte Carlo simulations. "
